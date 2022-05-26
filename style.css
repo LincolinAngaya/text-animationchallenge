@@ -100,3 +100,19 @@ nav ul li a::after{
       margin-left: 5px;
 
     }
+    .social-icons{
+      position: absolute;
+      right: 0%;
+      bottom:40%;
+    }
+    .social-icons img{
+      width: 25px;
+      display: block;
+      margin: 25px 5px;
+    }
+    .social-icons a::after{
+      width: 25px;
+      display: block;
+      margin: 25px 5px;
+    }
+
