@@ -61,3 +61,8 @@ nav ul li a::after{
    width: 100%;
   
  }
+ .text-box{
+   color: #fff;
+   position: absolute;
+   bottom: 8%;
+ }
