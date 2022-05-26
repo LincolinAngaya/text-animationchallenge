@@ -79,3 +79,12 @@ nav ul li a::after{
     font-size: 40px;
     font-weight: 600px;
     }
+    .text-box .row{
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-top: 30px;
+    }
+    .text-box a{
+      
+    }
